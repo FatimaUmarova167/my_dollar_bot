@@ -139,7 +139,7 @@ def send_about(message):
 • Быстрые ответы
 
 📱 <b>Разработчик:</b>
-@твой_ник
+@FatmaUmrva
     """
     bot.send_message(message.chat.id, about_text, parse_mode="HTML")
 
